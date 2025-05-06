@@ -23,7 +23,7 @@ We aim to answer: _Can a frame-aware, interpretable pipeline outperform end-to-e
 
 ---
 
-## 📁 Dataset: EchoNet-Dynamic
+## 📁 Dataset: [EchoNet-Dynamic](https://www.kaggle.com/datasets/mahnurrahman/echonet-dynamic)
 
 **Source**: Stanford ML Group  
 **Modality**: Apical 4-chamber echocardiographic videos  
